@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/car logo 2final dataset2.v2i.yolov8/train/images
+val: /content/drive/MyDrive/car logo 2final dataset2.v2i.yolov8/train/images  # استخدم نفس مسار التدريب للتحقق
+nc: 23
+names: ['Audi', 'BMW', 'CITROEN', 'DACIA', 'FIAT', 'Ford', 'MINI', 'NISSAN', 'OPEL', 'PEUGEOT', 'PORSCHE', 'Renault', 'SKODA', 'SUZUKI', 'TOYOTA', 'honda', 'hyundai', 'kia', 'mazda', 'mercedes', 'mitsubishi', 'tesla', 'volkswagen']
+
